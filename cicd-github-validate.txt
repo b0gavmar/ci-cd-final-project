@@ -1,0 +1,16 @@
+gh run view 44895645559 --verbose
+
+✓ main CI workflow · 44895645559
+Triggered via push about 6 minutes ago
+
+JOBS
+✓ build in 17s (ID 136820590862)
+  ✓ Set up job
+  ✓ Initialize containers
+  ✓ Checkout
+  ✓ Install dependencies
+  ✓ Lint with flake8
+  ✓ Run unit tests with nose
+  ✓ Post Checkout
+  ✓ Stop containers
+  ✓ Complete job
